@@ -31,6 +31,3 @@ A sleek and functional stopwatch web application built using **HTML**, **CSS**, 
 5. The stopwatch will open in your default browser.
 
 ---
-
-## 📁 File Structure
-
